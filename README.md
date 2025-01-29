@@ -35,7 +35,7 @@ chatting-application-master/
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/chatting-application.git
+   git clone https://github.com/Mohanbalu
    cd chatting-application
    ```
 2. **Compile the project using NetBeans or Apache Ant:**
